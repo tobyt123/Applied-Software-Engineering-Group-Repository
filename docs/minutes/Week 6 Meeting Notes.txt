@@ -1,0 +1,11 @@
+Week 6 Meeting Notes 
+---
+Present 
+Pablo 
+Marlow 
+Toby
+--- 
+- Completed a review of our work so far. 
+- Outlined out next steps and where we need to go / catchup on. 
+- Reviewed our new GitHub structure, and uploaded a Readme file, for better organisation. Everyone happy with the new structure, no need to make amends to it. 
+
