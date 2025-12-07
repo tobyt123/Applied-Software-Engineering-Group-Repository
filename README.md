@@ -23,7 +23,7 @@ The full system consists of four inter-connected subsystems developed by our tea
 | **Pablo Asenjo González** | 19324102 | **USU Operation System** | Web app for USU officers to manage the federation and nation-wide events. |
 | **Ryan Mead** | 19311988 | **USU Student App** | Mobile app for students to join societies and participate in events. |
 | **Toby Taylor** | 19341848 | **Student Union Management System** | Web platform for union officers to manage their societies and members. |
-| **Marlo Serfaty** | 19310578 | **Society Leader App** | Mobile/web app for society leaders to organise and run events. |
+| **Marlo Sarfaty** | 19310578 | **Society Leader App** | Mobile/web app for society leaders to organise and run events. |
 
 ---
 
